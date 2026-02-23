@@ -7,5 +7,6 @@ int main()
 printf("Zdravo sveta\n");
 scanf_s(".................");
   p=a*b;
-return 0;
+  v=a*b*c;
+
 }
